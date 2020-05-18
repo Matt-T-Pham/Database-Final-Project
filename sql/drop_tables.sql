@@ -1,0 +1,25 @@
+DROP TABLE IsCtypes;
+
+DROP TABLE Favorites;
+
+DROP TABLE Rates;
+
+DROP TABLE Feedback;
+
+DROP TABLE Trust;
+
+DROP TABLE Ride;
+
+DROP TABLE Reserve;
+
+DROP TABLE Available;
+
+DROP TABLE Period;
+
+DROP TABLE UC;
+
+DROP TABLE Ctypes;
+
+DROP TABLE UD;
+
+DROP TABLE UU;
